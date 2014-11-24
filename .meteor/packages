@@ -8,4 +8,6 @@ autopublish
 insecure
 accounts-ui
 accounts-password
+accounts-github
+mike:mocha
 
